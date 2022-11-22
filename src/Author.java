@@ -1,7 +1,6 @@
     public class Author {
         private String nameAuthor;
         private String lastNameAuthor;
-
         public Author(String nameAuthor, String lastNameAuthor) {
             this.nameAuthor = nameAuthor;
             this.lastNameAuthor = lastNameAuthor;
